@@ -6,13 +6,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ssudher | LinkedIn" width="22px" src="https://www.linkedin.com/in/ssudher/" />][linkedin]
-[<img align="left" alt="soulful_hobby | Instagram" width="22px" src="https://www.instagram.com/soulful_hobby/" />][instagram]
+[<img align="left" alt="ssudher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="soulful_hobby | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />]
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][webdevplaylist]
 [<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" />][webdevplaylist]
 [<img align="left" alt="OpenMP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" />][webdevplaylist]
