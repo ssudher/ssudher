@@ -1,10 +1,13 @@
 ## I am Shrikanth - aka [cheeka](https://www.linkedin.com/in/ssudher/)👋
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/ssudher/" />][linkedin]
-
 ## I'm a Masters Student in Computer Science at NC State and a Developer.
 * 👯 I’m looking for full-time software developer roles
 * 🥅 2020 Goals: Contribute more to Open Source projects
 * ⚡ Fun fact: I love to [sketch](https://www.instagram.com/soulful_hobby/)
+
+### Connect with me:
+
+[<img align="left" alt="ssudher | LinkedIn" width="22px" src="https://www.linkedin.com/in/ssudher/" />][linkedin]
+[<img align="left" alt="soulful_hobby | Instagram" width="22px" src="https://www.instagram.com/soulful_hobby/" />][instagram]
 
 <br />
 
@@ -20,10 +23,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/ssudher/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/soulful_hobby/" />][instagram]
 
 <br />
 <br />
