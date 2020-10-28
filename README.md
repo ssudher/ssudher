@@ -1,6 +1,6 @@
 ## I am Shrikanth - aka [cheeka](https://www.linkedin.com/in/ssudher/)👋
 ### I'm a Masters Student in Computer Science at NC State and a Developer -> check my [Git](https://github.com/ssudher?tab=repositories).
-* 👯 I’m looking for full-time software developer roles starting May-2021
+* 👯 I’m looking for full-time software developer roles starting May-2021 -> check my [***resume***](https://github.com/ssudher/Resume/blob/main/Shrikanth_Sudhersan_Resume.pdf)
 * 🥅 2020 Goals: Contribute more to Open Source projects
 * ⚡ Fun fact: I love to [sketch](https://www.instagram.com/soulful_hobby/)
 
